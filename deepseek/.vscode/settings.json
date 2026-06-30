@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "qtts.h": "c",
+        "cjson.h": "c",
+        "main.h": "c",
+        "qisr.h": "c",
+        "stat.h": "c",
+        "ifaddrs.h": "c"
+    },
+    "merge-conflict.decorators.enabled": false,
+    "merge-conflict.codeLens.enabled": false
+}
